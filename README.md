@@ -1,24 +1,3 @@
-# vue-flexible-project
+# Vue PC端大屏自适应Demo. 基于REM方式解决PC端全屏应用的各种屏幕适配问题
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+html, doby  {overflow:hidden } // 特别重要
